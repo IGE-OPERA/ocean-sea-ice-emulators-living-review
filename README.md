@@ -48,6 +48,8 @@ We welcome contributions! To add a new reference or suggest an update:
 | 2025 | Samudra: An AI Global Ocean Emulator for Climate                                          | GRL                               | [doi](https://doi.org/10.1029/2024GL114318)                          |
 | 2025 | SamudrACE: Fast and Accurate Coupled Climate Modeling with 3D Ocean and Atmosphere Emulators | arXiv preprint                 | [doi](https://doi.org/10.48550/arXiv.2509.12490)                     |
 | 2025 | GLONET: Mercator's End-to-End Neural Global Ocean Forecasting System                      | Machine Learning and Computation  | [doi](https://doi.org/10.1029/2025JH000686)                          |
+| 2025 | NeuralOM: Neural Ocean Model for Subseasonal-to-Seasonal Simulation                       | arXiv preprint                    | [doi](https://doi.org/10.48550/arXiv.2505.21020)                     |
+
 
  
 
