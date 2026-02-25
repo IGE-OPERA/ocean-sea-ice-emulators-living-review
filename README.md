@@ -59,6 +59,8 @@ We welcome contributions! To add a new reference or suggest an update:
 | Year | Title                                                                                     | Publication         | Paper                                                                 |
 |------|-------------------------------------------------------------------------------------------|---------------------|------------------------------------------------------------------------|
 | 2025 | Generative AI models capture realistic sea-ice evolution from days to decades             | arXiv preprint      | [doi](https://doi.org/10.48550/arXiv.2508.14984)                     |
+| 2025 | Generative Diffusion for Regional Surrogate Models From Sea-Ice Simulations               | JAMES               | [doi](https://doi.org/10.1029/2024MS004395)                          |
+
 
 ---
 
