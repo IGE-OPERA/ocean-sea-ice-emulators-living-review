@@ -51,6 +51,7 @@ We welcome contributions! To add a new reference or suggest an update:
 | 2025 | NeuralOM: Neural Ocean Model for Subseasonal-to-Seasonal Simulation                       | arXiv preprint                    | [doi](https://doi.org/10.48550/arXiv.2505.21020)                     |
 | 2025 | Accurate Mediterranean Sea forecasting via graph-based deep learning                      | Nature Scientific Reports         | [doi](https://doi.org/10.1038/s41598-025-31177-w)                    |
 | 2025 | FuXi-Ocean: A Global Ocean Forecasting System with Sub-Daily Resolution                   | arXiv preprint                    | [doi](https://doi.org/10.48550/arXiv.2506.03210)                     |
+| 2025 | AI performs on high-resolution three-dimensional ocean temperature forecasting: remote sensing data-driven becomes a new possibility | International Journal of Digital Earth | [doi](https://doi.org/10.1080/17538947.2025.2595786) |
 
 
 
