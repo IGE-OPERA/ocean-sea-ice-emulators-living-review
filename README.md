@@ -40,13 +40,14 @@ We welcome contributions! To add a new reference or suggest an update:
 
 ## Autoregressive emulators for ocean dynamics
 
-| Year | Title                                                                                     | Publication          | Paper                                                                 |
-|------|-------------------------------------------------------------------------------------------|----------------------|----------------------------------------------------------------------|
-| 2025 | Data-driven Global Ocean Modeling for Seasonal to Decadal Prediction                      | arXiv preprint       | [doi](https://doi.org/10.48550/arXiv.2405.15412)                     |
-| 2024 | AI-GOMS: Large AI-Driven Global Ocean Modeling System                                     | arXiv preprint       | [doi](https://doi.org/10.48550/arXiv.2308.03152)                     |
-| 2025 | Forecasting the eddying ocean with a deep neural network                                  | Nature Communications| [doi](https://doi.org/10.1038/s41467-025-57389-2)                    |
-| 2025 | Samudra: An AI Global Ocean Emulator for Climate                                          | GRL                  | [doi](https://doi.org/10.1029/2024GL114318)                          |
-| 2025 | SamudrACE: Fast and Accurate Coupled Climate Modeling with 3D Ocean and Atmosphere Emulators | arXiv preprint    | [doi](https://doi.org/10.48550/arXiv.2509.12490)                     |
+| Year | Title                                                                                     | Publication                       | Paper                                                                 |
+|------|-------------------------------------------------------------------------------------------|-----------------------------------|----------------------------------------------------------------------|
+| 2025 | Data-driven Global Ocean Modeling for Seasonal to Decadal Prediction                      | arXiv preprint                    | [doi](https://doi.org/10.48550/arXiv.2405.15412)                     |
+| 2024 | AI-GOMS: Large AI-Driven Global Ocean Modeling System                                     | arXiv preprint                    | [doi](https://doi.org/10.48550/arXiv.2308.03152)                     |
+| 2025 | Forecasting the eddying ocean with a deep neural network                                  | Nature Communications             | [doi](https://doi.org/10.1038/s41467-025-57389-2)                    |
+| 2025 | Samudra: An AI Global Ocean Emulator for Climate                                          | GRL                               | [doi](https://doi.org/10.1029/2024GL114318)                          |
+| 2025 | SamudrACE: Fast and Accurate Coupled Climate Modeling with 3D Ocean and Atmosphere Emulators | arXiv preprint                 | [doi](https://doi.org/10.48550/arXiv.2509.12490)                     |
+| 2025 | GLONET: Mercator's End-to-End Neural Global Ocean Forecasting System                      | Machine Learning and Computation  | [doi](https://doi.org/10.1029/2025JH000686)                          |
 
  
 
