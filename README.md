@@ -38,7 +38,7 @@ We welcome contributions! To add a new reference or suggest an update:
 | 2025 | OceanBench: A Benchmark for Data-Driven Global Ocean Forecasting systems                  | NeurIPS paper       | [link](https://openreview.net/forum?id=wZGe1Kqs8G)                     |
 
 
-## Autoregressive Emulators for ocean dynamics
+## Autoregressive emulators for ocean dynamics
 
 | Year | Title                                                                                     | Publication         | Paper                                                                 |
 |------|-------------------------------------------------------------------------------------------|---------------------|----------------------------------------------------------------------|
@@ -47,7 +47,7 @@ We welcome contributions! To add a new reference or suggest an update:
 
 ---
 
-## Autoregressive Emulators for Sea Ice dynamics
+## Autoregressive emulators for sea-ice dynamics
 
 | Year | Title                                                                                     | Publication         | Paper                                                                 |
 |------|-------------------------------------------------------------------------------------------|---------------------|------------------------------------------------------------------------|
