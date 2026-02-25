@@ -4,7 +4,7 @@
 ## Scope & Context
 This repository hosts a **living review** of machine-learning-based emulators for ocean and sea ice systems. The goal is to provide a curated, up-to-date list of peer-reviewed and preprint publications that advance the use of machine learning in emulating oceanic and sea ice dynamics from operational forecasts to climate modelling. 
 
-The review is a priori restricted to machine learning based emulators that can be run autoregressively, whether trained from obseravtions, reranalysis or physics-based numerical models.  
+The review is a priori restricted to machine learning based emulators that can be run autoregressively, whether trained from observations, reanalyses or physics-based numerical models.  
 
 The review, which was initiated during the preparation of review article for ARMS in 2026, is community-driven and open to contributions.
 
