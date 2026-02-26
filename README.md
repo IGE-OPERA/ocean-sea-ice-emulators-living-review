@@ -60,7 +60,10 @@ We welcome contributions! To add a new reference or suggest an update:
 
 
 
-
+## Autoregressive emulators for ocean surface properties
+| Year | Title                                                                                     | Publication                       | Paper                                                                 |
+|------|-------------------------------------------------------------------------------------------|-----------------------------------|----------------------------------------------------------------------|
+| 2025 | Ocean Wave Forecasting With Deep Learning as Alternative to Conventional Models           | JAMES                             | [doi](https://doi.org/10.1029/2025MS005285)                          |
 
 
  
