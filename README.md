@@ -55,6 +55,9 @@ We welcome contributions! To add a new reference or suggest an update:
 | 2025 | Data-driven global ocean model resolving ocean-atmosphere coupling dynamics               | arXiv preprint                    | [doi](https://doi.org/10.48550/arXiv.2508.10908)                     |
 | 2024 | XiHe: A Data-Driven Model for Global Ocean Eddy-Resolving Forecasting                     | arXiv preprint                    | [doi](https://doi.org/10.48550/arXiv.2402.02995)                     |
 | 2024 | Coupled Ocean-Atmosphere Dynamics in a Machine Learning Earth System Model                | arXiv preprint                    | [doi](https://doi.org/10.48550/arXiv.2406.08632)                     |
+| 2025 | Advanced Long-term Earth System Forecasting                                               | arXiv preprint                    | [doi](https://doi.org/10.48550/arXiv.2505.19432)                     |
+
+
 
 
 
