@@ -75,6 +75,8 @@ We welcome contributions! To add a new reference or suggest an update:
 
 | Year | Title                                                                                     | Publication         | Paper                                                                 |
 |------|-------------------------------------------------------------------------------------------|---------------------|------------------------------------------------------------------------|
+| 2021 | Seasonal Arctic sea ice forecasting with probabilistic deep learning                      | Nature Communications | [doi](https://doi.org/10.1038/s41467-021-25257-4)                  |
+| 2024 | Data-driven surrogate modeling of high-resolution sea-ice thickness in the Arctic         | The Cryosphere      | [doi](https://doi.org/10.5194/tc-18-1791-2024)                       |
 | 2025 | Generative AI models capture realistic sea-ice evolution from days to decades             | arXiv preprint      | [doi](https://doi.org/10.48550/arXiv.2508.14984)                     |
 | 2025 | Generative Diffusion for Regional Surrogate Models From Sea-Ice Simulations               | JAMES               | [doi](https://doi.org/10.1029/2024MS004395)                          |
 
