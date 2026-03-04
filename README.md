@@ -36,7 +36,6 @@ We welcome contributions! To add a new reference or suggest an update:
 | Year | Title                                                                                     | Publication                       | Paper                                                                 |
 |------|-------------------------------------------------------------------------------------------|-----------------------------------|----------------------------------------------------------------------|
 | 2025 | Data-driven Global Ocean Modeling for Seasonal to Decadal Prediction                      | arXiv preprint                    | [doi](https://doi.org/10.48550/arXiv.2405.15412)                     |
-| 2024 | AI-GOMS: Large AI-Driven Global Ocean Modeling System                                     | arXiv preprint                    | [doi](https://doi.org/10.48550/arXiv.2308.03152)                     |
 | 2025 | Forecasting the eddying ocean with a deep neural network                                  | Nature Communications             | [doi](https://doi.org/10.1038/s41467-025-57389-2)                    |
 | 2025 | Samudra: An AI Global Ocean Emulator for Climate                                          | GRL                               | [doi](https://doi.org/10.1029/2024GL114318)                          |
 | 2025 | SamudrACE: Fast and Accurate Coupled Climate Modeling with 3D Ocean and Atmosphere Emulators | arXiv preprint                 | [doi](https://doi.org/10.48550/arXiv.2509.12490)                     |
@@ -46,20 +45,19 @@ We welcome contributions! To add a new reference or suggest an update:
 | 2025 | FuXi-Ocean: A Global Ocean Forecasting System with Sub-Daily Resolution                   | arXiv preprint                    | [doi](https://doi.org/10.48550/arXiv.2506.03210)                     |
 | 2025 | AI performs on high-resolution three-dimensional ocean temperature forecasting: remote sensing data-driven becomes a new possibility | International Journal of Digital Earth | [doi](https://doi.org/10.1080/17538947.2025.2595786) |
 | 2025 | Data-driven global ocean model resolving ocean-atmosphere coupling dynamics               | arXiv preprint                    | [doi](https://doi.org/10.48550/arXiv.2508.10908)                     |
-| 2024 | XiHe: A Data-Driven Model for Global Ocean Eddy-Resolving Forecasting                     | arXiv preprint                    | [doi](https://doi.org/10.48550/arXiv.2402.02995)                     |
-| 2024 | Coupled Ocean-Atmosphere Dynamics in a Machine Learning Earth System Model                | arXiv preprint                    | [doi](https://doi.org/10.48550/arXiv.2406.08632)                     |
 | 2025 | Advanced Long-term Earth System Forecasting                                               | arXiv preprint                    | [doi](https://doi.org/10.48550/arXiv.2505.19432)                     |
-
-
-
+| 2024 | Coupled Ocean-Atmosphere Dynamics in a Machine Learning Earth System Model                | arXiv preprint                    | [doi](https://doi.org/10.48550/arXiv.2406.08632)                     |
+| 2024 | XiHe: A Data-Driven Model for Global Ocean Eddy-Resolving Forecasting                     | arXiv preprint                    | [doi](https://doi.org/10.48550/arXiv.2402.02995)                     |
+| 2024 | OceanNet: a principled neural operator-based digital twin for regional oceans             | Nature Scientific Reports         | [doi](https://doi.org/10.1038/s41598-024-72145-0)                    |
+| 2024 | AI-GOMS: Large AI-Driven Global Ocean Modeling System                                     | arXiv preprint                    | [doi](https://doi.org/10.48550/arXiv.2308.03152)                     |
 
 ## Autoregressive emulators for ocean surface properties
 | Year | Title                                                                                     | Publication                       | Paper                                                                 |
 |------|-------------------------------------------------------------------------------------------|-----------------------------------|----------------------------------------------------------------------|
-| 2018 | A machine learning framework to forecast wave conditions                                  | Coastal Engineering               | [doi](https://doi.org/10.1016/j.coastaleng.2018.03.004)
 | 2025 | Ocean Wave Forecasting With Deep Learning as Alternative to Conventional Models           | JAMES                             | [doi](https://doi.org/10.1029/2025MS005285)                    |
 | 2025 | Learning Propagators for Sea Surface Height Forecasts Using Koopman Autoencoders          | GRL                               | [doi](https://doi.org/10.1029/2024GL112835)                    |
 | 2025 | Long-Term Predictions of Loop Current Eddy Evolutions Using OceanNet: A Fourier Neural Operator–Based Data-Driven Ocean Emulator | Artificial Intelligence for the Earth Systems | [doi](https://doi.org/10.1175/AIES-D-24-0039.1)|
+| 2018 | A machine learning framework to forecast wave conditions                                  | Coastal Engineering               | [doi](https://doi.org/10.1016/j.coastaleng.2018.03.004)
 
 
 
