@@ -12,7 +12,7 @@ The review, which was initiated during the preparation of review article for ARM
 ## How to Cite
 
 If you use this review in your work, please cite it as:
-> [Durand and Le Sommer]. (2026). *Living Review: Machine-Learning-Based Emulators for Ocean and Sea Ice Modelling and Prediction* (Version 1.0). Zenodo. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18851354.svg)](https://doi.org/10.5281/zenodo.18851354)
+> Durand and Le Sommer. (2026). *Living Review: Machine-Learning-Based Emulators for Ocean and Sea Ice Modelling and Prediction* (Version 1.0). Zenodo. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18851354.svg)](https://doi.org/10.5281/zenodo.18851354)
 
 ---
 
