@@ -69,11 +69,11 @@ We welcome contributions! To add a new reference or suggest an update:
 
 | Year | Title                                                                                     | Publication         | Paper                                                                 |
 |------|-------------------------------------------------------------------------------------------|---------------------|-----------------------------------------------------------------------|
+| 2026 | FloeNet: A mass-conserving global sea ice emulator that generalizes across climates.      | arXiv preprint      | [doi](https://doi.org/10.48550/arXiv.2603.12449).                     |
 | 2026 | Sea Ice Edge Constraint Improves Antarctic Sea Ice Seasonal Prediction in Deep Learning Models | Advances in Atmospheric Sciences | [doi](https://doi.org/10.1007/s00376-025-5024-2)    |
 | 2025 | Generative AI models capture realistic sea-ice evolution from days to decades             | arXiv preprint      | [doi](https://doi.org/10.48550/arXiv.2508.14984)                      |
 | 2025 | Generative Diffusion for Regional Surrogate Models From Sea-Ice Simulations               | JAMES               | [doi](https://doi.org/10.1029/2024MS004395)                           |
 | 2024 | Data-driven surrogate modeling of high-resolution sea-ice thickness in the Arctic         | The Cryosphere      | [doi](https://doi.org/10.5194/tc-18-1791-2024)                        |
 | 2021 | Seasonal Arctic sea ice forecasting with probabilistic deep learning                      | Nature Communications | [doi](https://doi.org/10.1038/s41467-021-25257-4)                   |
-| 2026 | FloeNet: A mass-conserving global sea ice emulator that generalizes across climates       | arXiv preprint      | [doi](https://doi.org/10.48550/arXiv.2603.12449)                      |
 
 ---
