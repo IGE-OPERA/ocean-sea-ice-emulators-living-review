@@ -57,11 +57,11 @@ We welcome contributions! To add a new reference or suggest an update:
 
 | Year | Title                                                                                     | Publication                       | Paper                                                                 |
 |------|-------------------------------------------------------------------------------------------|-----------------------------------|----------------------------------------------------------------------|
+| 2025 | A Deep Learning Earth System Model for Efficient Simulation of the Observed Climate       | AGU Advances                      | [doi](https://doi.org/10.1029/2025AV001706)                                                         |
 | 2025 | Ocean Wave Forecasting With Deep Learning as Alternative to Conventional Models           | JAMES                             | [doi](https://doi.org/10.1029/2025MS005285)                                                         |
 | 2025 | Learning Propagators for Sea Surface Height Forecasts Using Koopman Autoencoders          | GRL                               | [doi](https://doi.org/10.1029/2024GL112835)                                                         |
 | 2025 | Long-Term Predictions of Loop Current Eddy Evolutions Using OceanNet: A Fourier Neural Operator–Based Data-Driven Ocean Emulator | Artificial Intelligence for the Earth Systems | [doi](https://doi.org/10.1175/AIES-D-24-0039.1)       |
 | 2018 | A machine learning framework to forecast wave conditions                                  | Coastal Engineering               | [doi](https://doi.org/10.1016/j.coastaleng.2018.03.004)                                               |
-| 2025 | A Deep Learning Earth System Model for Efficient Simulation of the Observed Climate       | AGU Advances                      | [doi](https://doi.org/10.1029/2025AV001706)                                                         |
 
 ---
 
