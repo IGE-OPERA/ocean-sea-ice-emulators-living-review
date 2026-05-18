@@ -37,6 +37,7 @@ We welcome contributions! To add a new reference or suggest an update:
 
 | Year | Title                                                                                     | Publication                       | Paper                                                                 |
 |------|-------------------------------------------------------------------------------------------|-----------------------------------|----------------------------------------------------------------------|
+| 2026 |Njord: A Probabilistic Graph Neural Network for Ensemble Ocean Forecasting                 | arXiv preprint                    | [doi](https://doi.org/10.48550/arXiv.2605.15470)
 | 2026 | Skillful Global Ocean Emulation and the Role of Correlation-Aware Loss                    | arXiv preprint                    | [doi](https://doi.org/10.48550/arXiv.2604.18727)
 | 2025 | Data-driven Global Ocean Modeling for Seasonal to Decadal Prediction                      | arXiv preprint                    | [doi](https://doi.org/10.48550/arXiv.2405.15412)                     |
 | 2025 | Forecasting the eddying ocean with a deep neural network                                  | Nature Communications             | [doi](https://doi.org/10.1038/s41467-025-57389-2)                    |
