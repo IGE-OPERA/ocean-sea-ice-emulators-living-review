@@ -40,7 +40,7 @@ We welcome contributions! To add a new reference or suggest an update:
 | 2026 | AxiomOcean: Forecasting the Three-Dimensional Structure of the Upper Ocean                | arXiv preprint                    | [doi](https://doi.org/10.48550/arXiv.2605.10455)                     |
 | 2026 | Njord: A Probabilistic Graph Neural Network for Ensemble Ocean Forecasting                | arXiv preprint                    | [doi](https://doi.org/10.48550/arXiv.2605.15470)                     |
 | 2026 | Skillful Global Ocean Emulation and the Role of Correlation-Aware Loss                    | arXiv preprint                    | [doi](https://doi.org/10.48550/arXiv.2604.18727)                     |
-| 2025 | Data-driven Global Ocean Modeling for Seasonal to Decadal Prediction                      | arXiv preprint                    | [doi](https://doi.org/10.48550/arXiv.2405.15412)                     |
+| 2025 | Data-driven Global Ocean Modeling for Seasonal to Decadal Prediction                      | Science Advances                  | [doi](https://doi.org/10.1126/sciadv.adu2488)                        |
 | 2025 | Forecasting the eddying ocean with a deep neural network                                  | Nature Communications             | [doi](https://doi.org/10.1038/s41467-025-57389-2)                    |
 | 2025 | Samudra: An AI Global Ocean Emulator for Climate                                          | GRL                               | [doi](https://doi.org/10.1029/2024GL114318)                          |
 | 2025 | SamudrACE: Fast and Accurate Coupled Climate Modeling with 3D Ocean and Atmosphere Emulators | arXiv preprint                 | [doi](https://doi.org/10.48550/arXiv.2509.12490)                     |
