@@ -37,6 +37,7 @@ We welcome contributions! To add a new reference or suggest an update:
 
 | Year | Title                                                                                     | Publication                       | Paper                                                                 |
 |------|-------------------------------------------------------------------------------------------|-----------------------------------|----------------------------------------------------------------------|
+| 2026 | Samudra 2: Scaling Ocean Emulators across Resolutions                                     | arXiv preprint                    | [doi](https://doi.org/10.48550/arXiv.2606.02610)
 | 2026 | AxiomOcean: Forecasting the Three-Dimensional Structure of the Upper Ocean                | arXiv preprint                    | [doi](https://doi.org/10.48550/arXiv.2605.10455)                     |
 | 2026 | Njord: A Probabilistic Graph Neural Network for Ensemble Ocean Forecasting                | arXiv preprint                    | [doi](https://doi.org/10.48550/arXiv.2605.15470)                     |
 | 2026 | Skillful Global Ocean Emulation and the Role of Correlation-Aware Loss                    | arXiv preprint                    | [doi](https://doi.org/10.48550/arXiv.2604.18727)                     |
