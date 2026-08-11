@@ -74,6 +74,7 @@ We welcome contributions! To add a new reference or suggest an update:
 
 | Year | Title                                                                                     | Publication         | Paper                                                                 |
 |------|-------------------------------------------------------------------------------------------|---------------------|-----------------------------------------------------------------------|
+| 2026 | Ocean-Aware Sea-ice Emulator for Future Hybrid Coupled Prediction Systems                 | ESS Open Archive    | [doi](https://doi.org/10.22541/essoar.15007260/v1)                    |
 | 2026 | FloeNet: A mass-conserving global sea ice emulator that generalizes across climates.      | arXiv preprint      | [doi](https://doi.org/10.48550/arXiv.2603.12449).                     |
 | 2026 | Sea Ice Edge Constraint Improves Antarctic Sea Ice Seasonal Prediction in Deep Learning Models | Advances in Atmospheric Sciences | [doi](https://doi.org/10.1007/s00376-025-5024-2)    |
 | 2025 | Generative AI models capture realistic sea-ice evolution from days to decades             | arXiv preprint      | [doi](https://doi.org/10.48550/arXiv.2508.14984)                      |
