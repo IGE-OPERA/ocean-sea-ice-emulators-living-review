@@ -37,6 +37,7 @@ We welcome contributions! To add a new reference or suggest an update:
 
 | Year | Title                                                                                     | Publication                       | Paper                                                                 |
 |------|-------------------------------------------------------------------------------------------|-----------------------------------|----------------------------------------------------------------------|
+| 2026 | Paleoclimate Boundary Conditions as an Out-of-Sample Test for the Forced Response of Ocean Climate Emulators | arXiv preprint | [doi](https://doi.org/10.48550/arXiv.2608.13494)                     |
 | 2026 | Eddy-Resolving Global Ocean Forecasting with Multi-Scale Graph Neural Networks            | arXiv preprint                    | [doi](https://doi.org/10.48550/arXiv.2601.12775)                     |
 | 2026 | Samudra 2: Scaling Ocean Emulators across Resolutions                                     | arXiv preprint                    | [doi](https://doi.org/10.48550/arXiv.2606.02610)                     |
 | 2026 | AxiomOcean: Forecasting the Three-Dimensional Structure of the Upper Ocean                | arXiv preprint                    | [doi](https://doi.org/10.48550/arXiv.2605.10455)                     |
