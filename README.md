@@ -61,6 +61,12 @@ We welcome contributions! To add a new reference or suggest an update:
 | 2024 | AI-GOMS: Large AI-Driven Global Ocean Modeling System                                     | arXiv preprint                    | [doi](https://doi.org/10.48550/arXiv.2308.03152)                     |
 
 
+## Autoregressive emulators for ocean biogeochemistry
+
+| Year | Title                                                                                     | Publication         | Paper                                                                 |
+|------|-------------------------------------------------------------------------------------------|---------------------|----------------------------------------------------------------------|
+| 2026 | SamudraBGC: Machine Learning Emulation of Regional Mesoscale Ocean Biogeochemistry         | ESS Open Archive    | [doi](https://doi.org/10.22541/essoar.15006794/v1)                    |
+
 ## Autoregressive emulators for ocean surface properties
 
 | Year | Title                                                                                     | Publication                       | Paper                                                                |
