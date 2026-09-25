@@ -37,6 +37,7 @@ We welcome contributions! To add a new reference or suggest an update:
 
 | Year | Title                                                                                     | Publication                       | Paper                                                                 |
 |------|-------------------------------------------------------------------------------------------|-----------------------------------|----------------------------------------------------------------------|
+| 2026 | HClimRep-Ocean: A Global Ocean Emulator on an Unstructured Mesh                           | arXiv preprint.                   | [doi](https://doi.org/10.48550/arXiv.2609.28601)                     |
 | 2026 | Neptune: An AI model for Global Ocean Subseasonal Prediction                              | arXiv preprint                    | [doi](https://doi.org/10.48550/arXiv.2609.08606)                     |
 | 2026 | Paleoclimate Boundary Conditions as an Out-of-Sample Test for the Forced Response of Ocean Climate Emulators | arXiv preprint | [doi](https://doi.org/10.48550/arXiv.2608.13494)                     |
 | 2026 | Eddy-Resolving Global Ocean Forecasting with Multi-Scale Graph Neural Networks            | arXiv preprint                    | [doi](https://doi.org/10.48550/arXiv.2601.12775)                     |
