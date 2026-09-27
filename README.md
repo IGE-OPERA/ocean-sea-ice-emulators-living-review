@@ -5,14 +5,17 @@
 
 This repository hosts a **living review** of machine-learning-based emulators for ocean and sea ice systems. The goal is to provide a curated, up-to-date list of peer-reviewed and preprint publications that advance the use of machine learning in emulating oceanic and sea ice dynamics from operational forecasts to climate modelling.
 
-The review is a priori restricted to machine learning based emulators that can be run autoregressively, whether trained from observations, reanalyses or physics-based numerical models.  
+This living review is a priori restricted to machine learning based emulators that can be run autoregressively, whether trained from observations, reanalyses or physics-based numerical models.  
 
-The review, which was initiated during the preparation of review article for ARMS in 2026, is community-driven and open to contributions.
+This living review was initiated during the preparation of review article in 2026 (Durand et al. 2027, doi:[10.1146/annurev-marine-040125-074353](https://doi.org/10.1146/annurev-marine-040125-074353)). This living review is community-driven and open to contributions.
 
 ## How to Cite
 
 If you use this review in your work, please cite it as:
-> Durand and Le Sommer. (2026). *Living Review: Machine-Learning-Based Emulators for Ocean and Sea Ice Modelling and Prediction* (Version 1.0). Zenodo. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18851354.svg)](https://doi.org/10.5281/zenodo.18851354)
+> Durand and Le Sommer. (2026). *Living Review: Machine-Learning-Based Emulators for Ocean and Sea Ice Modelling and Prediction* (Version 1.0.2). Zenodo. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18851354.svg)](https://doi.org/10.5281/zenodo.18851354)
+
+You may also consider citing our review article as: 
+> Durand et al. (2027). *Learning-Based Methods and the Future of Numerical Ocean and Sea-Ice Modeling*. Annual Review or Marine Science. doi:[10.1146/annurev-marine-040125-074353](https://doi.org/10.1146/annurev-marine-040125-074353)  
 
 ---
 
