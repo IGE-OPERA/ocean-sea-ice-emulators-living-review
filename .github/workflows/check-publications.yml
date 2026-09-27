@@ -1,0 +1,40 @@
+name: Check arXiv publications
+
+on:
+  schedule:
+    - cron: "0 6 1 * *" # monthly, 1st at 06:00 UTC
+  workflow_dispatch:
+
+permissions:
+  issues: write
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Run arXiv publication check
+        id: check
+        run: |
+          python3 scripts/check_arxiv.py > report.md || echo "needs_update=true" >> "$GITHUB_OUTPUT"
+          cat report.md
+
+      - name: Open or refresh tracking issue
+        if: steps.check.outputs.needs_update == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          TITLE="arXiv preprints published since last update"
+          LABEL="publication-update"
+          BODY="$(cat report.md)"
+          EXISTING=$(gh issue list --label "$LABEL" --state open --json number --jq '.[0].number' || true)
+          if [ -n "$EXISTING" ]; then
+            gh issue comment "$EXISTING" --body "Monthly check (as of $(date -u +%Y-%m-%d)):
+
+          $BODY"
+          else
+            gh issue create --title "$TITLE" --label "$LABEL" --body "Some arXiv preprints listed in the review have been published in journals. Update the tables (or apply the changes and close this issue).
+
+          $BODY"
+          fi
