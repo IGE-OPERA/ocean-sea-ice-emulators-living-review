@@ -15,7 +15,7 @@ If you use this review in your work, please cite it as:
 > Durand and Le Sommer. (2026). *Living Review: Machine-Learning-Based Emulators for Ocean and Sea Ice Modelling and Prediction* (Version 1.0.2). Zenodo. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18851353.svg)](https://doi.org/10.5281/zenodo.18851353)
 
 You may also consider citing our review article as: 
-> Durand et al. (2027). *Learning-Based Methods and the Future of Numerical Ocean and Sea-Ice Modeling*. Annual Review or Marine Science. doi:[10.1146/annurev-marine-040125-074353](https://doi.org/10.1146/annurev-marine-040125-074353)  
+> Durand et al. (2027). *Learning-Based Methods and the Future of Numerical Ocean and Sea-Ice Modeling*. Annual Review or Marine Science. [![DOI](https://img.shields.io/badge/DOI-10.1146%2Fannurev--marine--040125--074353-blue)](https://doi.org/10.1146/annurev-marine-040125-074353)  
 
 ---
 
